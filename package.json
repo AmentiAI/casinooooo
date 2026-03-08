@@ -1,0 +1,8 @@
+{
+  "name": "winna-casino-affiliate",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx serve . -p 3000 --open",
+    "start": "npx serve . -p 3000"
+  }
+}

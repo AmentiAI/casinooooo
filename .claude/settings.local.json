@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:casino.guru)",
+      "WebSearch",
+      "WebFetch(domain:www.playngo.com)",
+      "WebFetch(domain:www.pragmaticplay.com)",
+      "WebFetch(domain:games.evolution.com)",
+      "Bash(mkdir:*)"
+    ]
+  }
+}
