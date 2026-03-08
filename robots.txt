@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://winnareview.com/sitemap.xml
+
+# Crawl-delay for bots
+Crawl-delay: 2
+
+# Block sensitive directories
+Disallow: /node_modules/
+Disallow: /.git/
+Disallow: /.claude/
