@@ -6,7 +6,8 @@
       "WebFetch(domain:www.playngo.com)",
       "WebFetch(domain:www.pragmaticplay.com)",
       "WebFetch(domain:games.evolution.com)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "WebFetch(domain:winna.com)"
     ]
   }
 }
