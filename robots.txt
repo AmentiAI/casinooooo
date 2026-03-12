@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://winnareview.com/sitemap.xml
+Sitemap: https://signulldev.com/sitemap.xml
 
 # Crawl-delay for bots
 Crawl-delay: 2
