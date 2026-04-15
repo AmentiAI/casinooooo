@@ -1329,3 +1329,7 @@ img { max-width: 100%; height: auto; display: block; }
 .faq-item-blog .faq-answer p:last-child { margin-bottom: 0; }
 .faq-item-blog .faq-answer strong { color: var(--text); }
 .faq-item-blog .faq-answer a { color: var(--gold); text-decoration: underline; text-underline-offset: 3px; }
+
+.nav-x { display: inline-flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 50%; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff !important; font-size: 14px; margin-right: 10px; flex-shrink: 0; transition: all 0.25s; text-decoration: none; }
+.nav-x:hover { background: #fff; color: #000 !important; transform: translateY(-2px); border-color: #fff; }
+

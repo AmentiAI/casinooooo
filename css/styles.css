@@ -96,6 +96,8 @@ ul { list-style: none; }
   box-shadow: 0 4px 20px rgba(245,197,24,0.3);
 }
 .nav-cta:hover { transform: translateY(-2px); box-shadow: 0 8px 30px rgba(245,197,24,0.5); }
+.nav-x { display: inline-flex; align-items: center; justify-content: center; width: 36px; height: 36px; border-radius: 50%; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); color: #fff !important; font-size: 14px; margin-right: 10px; flex-shrink: 0; transition: all 0.25s; }
+.nav-x:hover { background: #fff; color: #000 !important; transform: translateY(-2px); border-color: #fff; }
 .hamburger { display: none; flex-direction: column; gap: 5px; background: none; border: none; cursor: pointer; padding: 4px; margin-left: auto; }
 .hamburger span { display: block; width: 24px; height: 2px; background: white; border-radius: 2px; transition: all 0.3s; }
 
